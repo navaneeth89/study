@@ -5,6 +5,8 @@ public class CountWords {
 		String s = "One Two Three Four";
 		int n = s.split(" ").length;
 		System.out.println(n);
+		System.out.println("success");
+
 	}
 
 }

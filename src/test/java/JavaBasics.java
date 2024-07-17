@@ -30,7 +30,7 @@ public class JavaBasics {
 		
 		String sNew= s.toLowerCase();
 		System.out.println(sNew);
-		
+		System.out.println("success");
 	}
 
 }
